@@ -1,7 +1,7 @@
 
 <div align="center">
   <a rel="nofollow" href="https://github.com/l34-n/Redes_de_Computadores/blob/main/sec.gif">
-    <img width="20%" src="./sec.gif">
+    <img width="25%" src="./sec.gif">
   </a>
 </div>
 
